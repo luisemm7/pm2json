@@ -1,0 +1,7 @@
+"apps": [
+    {
+        "name": "sunflower",
+        "cwd": "/root/pm2-apps/paginasun",
+        "script": "manage.py"
+    }
+]
